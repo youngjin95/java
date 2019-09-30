@@ -10,6 +10,9 @@ public class Main {
 		int a = 0;
 		int b = 0;
 		Scanner scan = new Scanner(System.in);
+		
+		a= scan.nextInt();
+		b= scan.nextInt();
 	}
 
 }
