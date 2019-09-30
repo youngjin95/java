@@ -13,6 +13,10 @@ public class Main {
 		
 		a= scan.nextInt();
 		b= scan.nextInt();
+		
+		if(a>b) {System.out.println(">");}
+		else if(a==b) {System.out.println("==");}
+		else {System.out.println("<");}
 	}
 
 }
