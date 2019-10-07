@@ -6,7 +6,6 @@ public class Two {
 	 
 	private static Scanner sc;
 
-	
 	public static void main(String[] args) {
 		sc = new Scanner(System.in);
 		while (sc.hasNext()) {
