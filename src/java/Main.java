@@ -4,8 +4,10 @@ package java;
 import java.util.Scanner;
 
 public class Main {
+	private static Scanner sc;
+
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		sc = new Scanner(System.in);
 		while (sc.hasNext()) {
 			int A = sc.nextInt();
 			int B = sc.nextInt();
