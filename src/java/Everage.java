@@ -1,4 +1,4 @@
-//백준 알고리즘 1546번 문제
+//백준 알고리즘 1546번 
 package java;
 
 import java.util.Scanner;
