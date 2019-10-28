@@ -1,4 +1,4 @@
-//문제 11022
+//백준문제 11022
 package java;
 
 import java.util.Scanner;
