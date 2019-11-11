@@ -1,4 +1,4 @@
-//백준 11654
+//백준 11654문제
 package java;
 
 import java.util.Scanner;
